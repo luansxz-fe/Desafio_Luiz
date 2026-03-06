@@ -1,0 +1,10 @@
+.card {
+  background: var(--fundo-card);
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.conteudo {
+  margin-top: 10px;
+}
